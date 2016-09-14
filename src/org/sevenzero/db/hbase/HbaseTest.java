@@ -52,6 +52,7 @@ public class HbaseTest {
 	
 	public static void main(String[] args) {
 		
+		
 		log.info(System.getenv("JAVA_HOME"));
 
 		String tableName = "test_from_java";
